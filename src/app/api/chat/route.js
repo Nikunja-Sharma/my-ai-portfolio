@@ -75,6 +75,8 @@ export async function POST(req) {
 
       }
     );
+
+    
     const docs = await loader.load();
     // console.log(docs)
     const splitter = RecursiveCharacterTextSplitter.fromLanguage("html");
