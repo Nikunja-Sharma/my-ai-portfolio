@@ -29,14 +29,14 @@ import clsx from "clsx";
 import { JSONLoader } from "langchain/document_loaders/fs/json";
 
 
-export async function POST(req: Request) {
+export async function POST(req) {
   try {
     const body = await req.json();
     const messages = body.messages;
 
     const chatHistory = messages
       .slice(0, -1)
-      .map((m: VercelChatMessage) =>
+      .map((m) =>
         m.role === "user"
           ? new HumanMessage(m.content)
           : new AIMessage(m.content),
