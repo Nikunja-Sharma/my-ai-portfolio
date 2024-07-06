@@ -29,6 +29,16 @@ yarn-error.log*
 .env*.local
 .env
 
+# Ignore all .env files
+.env
+
+# Ignore .env files in subdirectories
+**/.env
+
+# Ignore specific environment files
+.env.local
+.env.production
+
 # vercel
 .vercel
 
