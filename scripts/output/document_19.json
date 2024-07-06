@@ -1,0 +1,12 @@
+{
+  "pageContent": "<div>\r\n        <H2>Contact Us</H2>\r\n        <p>\r\n          If you have any questions about this Privacy Policy, please contact us\r\n          at <a\r\n            href=\"mailto:contactme@nikunja.online\"\r\n          >\r\n            contactme@nikunja.online\r\n          </a>\r\n        </p>\r\n      </div>\r\n    </section>\r\n  );\r\n}",
+  "metadata": {
+    "url": "/privacy",
+    "loc": {
+      "lines": {
+        "from": 85,
+        "to": 98
+      }
+    }
+  }
+}

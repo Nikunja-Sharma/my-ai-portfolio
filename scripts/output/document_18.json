@@ -1,0 +1,12 @@
+{
+  "pageContent": "<div>\r\n        <H2>Security</H2>\r\n        <p>\r\n          The security of your Personal Information is important to us, but\r\n          remember that no method of transmission over the Internet, or method\r\n          of electronic storage, is 100% secure. While we strive to use\r\n          commercially acceptable means to protect your Personal Information, we\r\n          cannot guarantee its absolute security.\r\n        </p>\r\n      </div>\r\n      <div>\r\n        <H2>Changes to This Privacy Policy</H2>\r\n        <p>\r\n          This Privacy Policy is effective as of July 2024 and will remain in\r\n          effect except with respect to any changes in its provisions in the\r\n          future, which will be in effect immediately after being posted on this\r\n          page. We reserve the right to update or change our Privacy Policy at\r\n          any time, and you should check this Privacy Policy periodically.\r\n        </p>\r\n      </div>",
+  "metadata": {
+    "url": "/privacy",
+    "loc": {
+      "lines": {
+        "from": 65,
+        "to": 84
+      }
+    }
+  }
+}

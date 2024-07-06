@@ -1,0 +1,12 @@
+{
+  "pageContent": "<div>\r\n        <H2>Use of Information</H2>\r\n        <p>The information we collect is used in the following ways:</p>\r\n        <ul>\r\n          <li>To ensure the proper functioning of our website</li>\r\n          <li>\r\n            To improve our website based on the information and feedback we\r\n            receive from you\r\n          </li>\r\n          <li>To respond to your customer service requests and support needs</li>\r\n        </ul>\r\n      </div>\r\n      <div>\r\n        <H2>Information Sharing and Disclosure</H2>\r\n        <p>\r\n          We do not sell, trade, or rent users&apos; personal identification\r\n          information to others. We may share generic aggregated demographic\r\n          information not linked to any personal identification information\r\n          regarding visitors and users with our business partners, trusted\r\n          affiliates, and advertisers for the purposes outlined above.\r\n        </p>\r\n      </div>",
+  "metadata": {
+    "url": "/privacy",
+    "loc": {
+      "lines": {
+        "from": 43,
+        "to": 64
+      }
+    }
+  }
+}

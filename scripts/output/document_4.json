@@ -1,0 +1,12 @@
+{
+  "pageContent": "<p>\r\n          <strong>Internships </strong>\r\n          <br />\r\n          My professional journey includes invaluable internship experiences. At\r\n          <a\r\n            href=\"https://teachnook.com/\"\r\n          >\r\n            {\" TeachNook\"}\r\n          </a>\r\n          , I delved into the development of web applications using\r\n          <a\r\n            href=\"https://nextjs.org/\"\r\n          >\r\n            {\" Next.js \"}\r\n          </a>\r\n          and{\" \"}\r\n          <a href=\"https://react.dev/\">\r\n            {\" React.js\"}\r\n          </a>\r\n          , where I gained hands-on experience in real-world coding\r\n          environments. Participating in code reviews and debugging sessions\r\n          sharpened my problem-solving skills.\r\n        </p>",
+  "metadata": {
+    "url": "/about",
+    "loc": {
+      "lines": {
+        "from": 53,
+        "to": 75
+      }
+    }
+  }
+}

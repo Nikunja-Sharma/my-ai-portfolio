@@ -1,0 +1,12 @@
+{
+  "pageContent": "<p>\r\n          Before that, my internship at{\" \"}\r\n          <a\r\n            href=\"https://learn.verzeo.in\"\r\n          >\r\n            {\" Verzeo \"}\r\n          </a>\r\n          introduced me to the vast world of           <a href=\"https://aws.amazon.com/\">{\" AWS cloud services\"}</a>\r\n. I worked on\r\n          cloud deployment and infrastructure management projects, which gave me\r\n          practical insights into cloud technology.\r\n        </p>\r\n        <hr />\r\n      </section>\r\n      <section>",
+  "metadata": {
+    "url": "/about",
+    "loc": {
+      "lines": {
+        "from": 76,
+        "to": 90
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pageContent": "<p>\r\n    I hold certifications in \r\n    <a href=\"https://www.coursera.org\">AWS Essentials</a> from Coursera, \r\n    <a href=\"https://www.udemy.com\">Web Development</a> from Udemy and Teachnook, and an internship certificate from \r\n    <a href=\"https://verzeo.in\">Verzeo</a>. These certifications attest to my commitment to continuous learning and staying updated with the latest industry trends.\r\n  </p>\r\n</section>\r\n      <section>\r\n        <H2>Technical Skills</H2>\r\n        <ul>\r\n          <li>\r\n            <strong>Front-End:</strong> Next.js, React.js, TailwindCSS, Shadcn\r\n          </li>\r\n          <li>\r\n            <strong>Back-End:</strong> Node.js, WebSockets, Prisma (ORM)\r\n          </li>\r\n          <li>\r\n            <strong>Databases:</strong> MongoDB (NoSQL), SQL, PostgreSQL\r\n          </li>\r\n          <li>\r\n            <strong>Cloud Services:</strong> AWS\r\n          </li>",
+  "metadata": {
+    "url": "/about",
+    "loc": {
+      "lines": {
+        "from": 133,
+        "to": 154
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "pageContent": "<div>\r\n        <H2>Information We Collect</H2>\r\n        <p>\r\n          As our website is a static portfolio, we do not actively collect\r\n          personal data from visitors. No account creation is required, and we\r\n          do not use cookies for tracking or personal data collection.\r\n        </p>\r\n        <H3>1. Log Files</H3>\r\n        <p>\r\n          Like many other websites, we collect information that your browser\r\n          sends whenever you visit our site (&quot;Log Data&quot;). This Log\r\n          Data may include information such as your computer&apos;s Internet\r\n          Protocol (&quot;IP&quot;) address, browser type, browser version, the\r\n          pages of our site that you visit, the time and date of your visit, the\r\n          time spent on those pages, and other statistics.\r\n        </p>\r\n        <H3>2. Contact Information</H3>",
+  "metadata": {
+    "url": "/privacy",
+    "loc": {
+      "lines": {
+        "from": 20,
+        "to": 36
+      }
+    }
+  }
+}

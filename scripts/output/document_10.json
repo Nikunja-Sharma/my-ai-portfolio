@@ -1,0 +1,12 @@
+{
+  "pageContent": "<li>\r\n            <strong>Databases:</strong> MongoDB (NoSQL), SQL, PostgreSQL\r\n          </li>\r\n          <li>\r\n            <strong>Cloud Services:</strong> AWS\r\n          </li>\r\n          <li>\r\n            <strong>Operating Systems:</strong> Linux, Windows\r\n          </li>\r\n        </ul>\r\n        <hr />\r\n      </section>\r\n      <section>\r\n        <H2>Programming Languages</H2>\r\n        <ul>\r\n          <li>JavaScript</li>\r\n          <li>TypeScript</li>\r\n          <li>Python</li>\r\n          <li>C/C++</li>\r\n        </ul>\r\n        <hr />\r\n      </section>\r\n      <section>\r\n        <H2>Beyond Tech</H2>",
+  "metadata": {
+    "url": "/about",
+    "loc": {
+      "lines": {
+        "from": 149,
+        "to": 172
+      }
+    }
+  }
+}

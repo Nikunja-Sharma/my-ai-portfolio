@@ -1,0 +1,12 @@
+{
+  "pageContent": "export const metadata: Metadata = {\r\n  title: \"Nikunja Sarma | My smart Portfolio\",\r\n};\r\nexport default function Home() {\r\n  return (\r\n    <section>\r\n      <section>\r\n        <div>\r\n          <H1>{\"Hi, I'm Nikunja 👋\"}</H1>\r\n          <p>A passionate web developer hailing from Assam, India, thrives on crafting cutting-edge solutions with Next.js and TypeScript, while delving into the world of Python AI to push boundaries and innovate.</p>\r\n        </div>\r\n        <div>\r\n<Image src={me} alt=\"me\" height={300} width={300}></Image>\r\n        </div>\r\n      </section>\r\n      <section>\r\n<H2>Ask the chatbot anything about me!</H2>\r\n<p>\r\n          Click the little <Bot /> icon in the top bar\r\n          to activate the AI chat. You can ask the chatbot any question about me\r\n          and it will find the relevant info on this website. The bot can even\r\n          provide links to pages you&apos;re looking for.\r\n        </p>\r\n      </section>\r\n    </section>\r\n  );\r\n}",
+  "metadata": {
+    "url": "/",
+    "loc": {
+      "lines": {
+        "from": 1,
+        "to": 27
+      }
+    }
+  }
+}

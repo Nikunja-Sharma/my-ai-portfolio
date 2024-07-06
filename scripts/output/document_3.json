@@ -1,0 +1,12 @@
+{
+  "pageContent": "<p>\r\n          <strong>\r\n            At\r\n            <a\r\n              href=\"https://www.zerorisklabs.com\"\r\n            >\r\n              {\" ZeroRisk Labs\"}\r\n            </a>\r\n          </strong>\r\n          <br />\r\n          Currently, I work as a web developer at{\" \"}\r\n          <a\r\n            href=\"https://www.zerorisklabs.com\"\r\n          >\r\n            {\" ZeroRisk Labs\"}\r\n          </a>\r\n          , where I thrive on challenges and constantly seek to improve the\r\n          performance and security of web applications. My role involves\r\n          collaborating with talented cross-functional teams to deliver projects\r\n          that not only meet but exceed client expectations. From developing\r\n          dynamic web applications to configuring DNS settings for optimal\r\n          performance, every task I undertake helps me grow as a professional.\r\n        </p>",
+  "metadata": {
+    "url": "/about",
+    "loc": {
+      "lines": {
+        "from": 30,
+        "to": 52
+      }
+    }
+  }
+}

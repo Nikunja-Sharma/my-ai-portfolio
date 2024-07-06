@@ -1,0 +1,12 @@
+{
+  "pageContent": "<p>\r\n          Hello! I{\"'\"}m Nikunja Sarma, a passionate self-taught web developer with\r\n          a knack for creating engaging and dynamic web applications. My journey\r\n          into the world of coding started with a curiosity about how websites\r\n          worked, which quickly grew into a full-fledged passion. Through\r\n          self-study and hands-on experience, I honed my technical skills and\r\n          developed a deep understanding of cloud services and cybersecurity. I\r\n          pursued a Bachelor of Computer Applications in Cloud Technology and\r\n          Information Security at\r\n          <a href=\"https://adtu.in\">\r\n            {\" Assam Downtown University\"}\r\n          </a>\r\n          , which further solidified my knowledge and expertise in the field.\r\n        </p>\r\n        <hr />\r\n      </section>\r\n      <section>\r\n        <H2>My Journey</H2>",
+  "metadata": {
+    "url": "/about",
+    "loc": {
+      "lines": {
+        "from": 12,
+        "to": 29
+      }
+    }
+  }
+}

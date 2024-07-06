@@ -1,0 +1,12 @@
+{
+  "pageContent": "export const metadata: Metadata = {\r\n  title: \"Privacy Policy\",\r\n};\r\nexport default function Page() {\r\n  return (\r\n    <section>\r\n      <div>\r\n        <H1>Privacy Policy</H1>\r\n        <p>Last Updated: July 2024</p>\r\n      </div>\r\n      <div>\r\n        <H2>Introduction</H2>\r\n        <p>\r\n          Welcome to my website. This Privacy Policy explains our practices\r\n          regarding the collection, use, and disclosure of information that we\r\n          receive through our website. Our primary goal is to showcase our work\r\n          and skills while respecting your privacy.\r\n        </p>\r\n      </div>",
+  "metadata": {
+    "url": "/privacy",
+    "loc": {
+      "lines": {
+        "from": 1,
+        "to": 19
+      }
+    }
+  }
+}

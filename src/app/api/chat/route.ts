@@ -69,7 +69,7 @@ export async function POST(req: Request) {
 
 
     const loader = new DirectoryLoader(
-      "scripts/output",
+      "/scripts/output",
       {
         ".json": (path) => new JSONLoader(path),
 

@@ -1,0 +1,12 @@
+{
+  "pageContent": "<p>\r\n    One of my favorite projects is the{\" \"}\r\n    <strong>Event Management App</strong>. Using a stack of \r\n    <a href=\"https://nextjs.org\">{` Next.js`}</a>, \r\n    <a href=\"https://www.typescriptlang.org\">{' TypeScript'}</a>, \r\n    <a href=\"https://github.com/colinhacks/zod\">{' Zod'}</a>, \r\n    <a href=\"https://react-hook-form.com\">{\" React Hook Form\"}</a>, \r\n    <a href=\"https://shadcn.dev\">{' Shadcn'}</a>, \r\n    <a href=\"https://tailwindcss.com\">{\" Tailwind\"}</a>, \r\n    <a href=\"https://aceternityui.com\">{\" AceternityUI\"}</a>, \r\n    <a href=\"https://nodejs.org\">{\" Node.js\"}</a>, \r\n    <a href=\"https://stripe.com\">{\" Stripe\"}</a>, and \r\n    <a href=\"https://uploadthing.com\">{\" uploadthing\"}</a>, I designed and developed a comprehensive event management application. This project allowed me to blend creativity with functionality, resulting in a tool that users find both intuitive and powerful.\r\n  </p>",
+  "metadata": {
+    "url": "/about",
+    "loc": {
+      "lines": {
+        "from": 91,
+        "to": 104
+      }
+    }
+  }
+}

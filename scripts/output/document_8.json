@@ -1,0 +1,12 @@
+{
+  "pageContent": "<p>\r\n    Throughout my career, I have continuously sought to expand my skill set. I am proficient in front-end technologies like \r\n    <a href=\"https://nextjs.org\">{\" Next.js\"}</a>, \r\n    <a href=\"https://reactjs.org\">{\" React.js\"}</a>, \r\n    <a href=\"https://tailwindcss.com\">{\" TailwindCSS\"}</a>, and \r\n    <a href=\"https://shadcn.dev\">{\" Shadcn\"}</a>, and have a solid foundation in back-end development with \r\n    <a href=\"https://nodejs.org\">{\" Node.js\"}</a>, \r\n    <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API\">WebSockets</a>, and \r\n    <a href=\"https://www.prisma.io\">{\" Prisma (ORM)\"}</a>. My database skills include working with \r\n    <a href=\"https://www.mongodb.com\">{\" MongoDB\"}</a>, \r\n    <a href=\"https://www.w3schools.com/sql\">{\" SQL\"}</a>, and \r\n    <a href=\"https://www.postgresql.org\">{\" PostgreSQL\"}</a>, and I am well-versed in \r\n    <a href=\"https://aws.amazon.com\">{\" AWS cloud services\"}</a>.\r\n  </p>",
+  "metadata": {
+    "url": "/about",
+    "loc": {
+      "lines": {
+        "from": 119,
+        "to": 132
+      }
+    }
+  }
+}

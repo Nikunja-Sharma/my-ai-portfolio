@@ -1,0 +1,12 @@
+{
+  "pageContent": "export const metadata: Metadata = {\r\n  title: \"Social Media\",\r\n  description: \"My social media channels and how to work with me.\",\r\n};\r\nexport default function Page() {\r\n  return (\r\n    <section>\r\n      <H1>Social Media</H1>\r\n      <section>\r\n        <H2>My channels</H2>\r\n        <p>\r\n          I create daily short form content on YouTube, Instagram Reels, and\r\n          TikTok. I also release about one multi-hour-long tutorial on Youtube\r\n          every month. I put a ton of effort into my tutorials to make them as\r\n          clear and concise as possible.\r\n        </p>",
+  "metadata": {
+    "url": "/social",
+    "loc": {
+      "lines": {
+        "from": 1,
+        "to": 16
+      }
+    }
+  }
+}

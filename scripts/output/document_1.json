@@ -1,0 +1,12 @@
+{
+  "pageContent": "export const metadata: Metadata = {\r\n  title: \"About Me\",\r\n  description:\r\n    \"Learn more about Nikunja Sarma, his journey, projects, and skills.\",\r\n};\r\nexport default function Page() {\r\n  return (\r\n    <section>\r\n      <H1>About Me</H1>\r\n      <section>\r\n        <H2>Welcome!</H2>",
+  "metadata": {
+    "url": "/about",
+    "loc": {
+      "lines": {
+        "from": 1,
+        "to": 11
+      }
+    }
+  }
+}
