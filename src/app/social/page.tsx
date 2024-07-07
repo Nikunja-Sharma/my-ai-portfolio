@@ -12,23 +12,10 @@ export default function Page() {
     <section className="space-y-6">
       <H1>Social Media</H1>
       <section className="space-y-3">
-        <H2>My channels</H2>
-        <p>
-          I create daily short form content on YouTube, Instagram Reels, and
-          TikTok. I also release about one multi-hour-long tutorial on Youtube
-          every month. I put a ton of effort into my tutorials to make them as
-          clear and concise as possible.
-        </p>
+        
         <p>Links to all my social accounts:</p>
         <ul className="list-inside list-disc space-y-1">
-          {/* <li>
-            <a
-              href="https://nikunja.online/youtube"
-              className="text-primary hover:underline"
-            >
-              YouTube
-            </a>
-          </li> */}
+
           <li>
             <a
               href="https://nikunja.online/instagram"
@@ -63,14 +50,7 @@ export default function Page() {
               LinkedIn
             </a>
           </li>
-          {/* <li>
-            <a
-              href="https://nikunja.online/blog"
-              className="text-primary hover:underline"
-            >
-              Blog
-            </a>
-          </li> */}
+
         </ul>
         <hr className="border-muted" />
       </section>

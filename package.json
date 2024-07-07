@@ -4,21 +4,17 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run generate && next build",
-    "generate": "npx ts-node ./scripts/generate.ts",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "@huggingface/inference": "2",
-    "@langchain/community": "^0.2.17",
-    "@langchain/core": "^0.2.14",
+    "@datastax/astra-db-ts": "^0.1.4",
     "@langchain/openai": "^0.0.13",
+    "@upstash/redis": "^1.28.2",
     "ai": "^2.2.32",
     "clsx": "^2.1.0",
-    "dotenv": "^16.4.5",
-    "form-data-encoder": "^4.0.2",
-    "formdata-node": "^6.0.3",
+    "dotenv": "^16.4.1",
     "langchain": "^0.1.11",
     "lucide-react": "^0.320.0",
     "next": "14.1.0",
@@ -27,7 +23,6 @@
     "react": "^18",
     "react-dom": "^18",
     "react-markdown": "^9.0.1",
-    "sharp": "^0.33.4",
     "tailwind-merge": "^2.2.1",
     "ts-node": "^10.9.2"
   },
@@ -44,5 +39,8 @@
     "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
+  },
+  "overrides": {
+    "@langchain/core": "0.1.20"
   }
 }
