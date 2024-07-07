@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My AI Powered Portfolio website
 
-## Getting Started
+## Description
+This project is a Next.js application that integrates with LangChain for AI chatbot functionality.
 
-First, run the development server:
+## Installation
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Start the development server with `npm run dev`.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Usage
+- Modify the code in `src/app/api/chat/route.js` to customize the chatbot behavior.
+- Run the application and interact with the chatbot.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
+- Integration with LangChain for AI chatbot capabilities.
+- Dynamic chat prompt generation based on user input.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## File Structure
+- `src/app/api/chat/route.js`: Contains the main logic for handling chat interactions.
+- `README.md`: Project documentation.
+- `package-lock.json`: Dependency lock file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Dependencies
+- `@langchain/openai`: Used for integrating with OpenAI for chatbot responses.
+- `ai`: Provides AI-related functionalities.
+- `next`: Framework for building React applications.
+- Other dependencies listed in `package-lock.json`.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
