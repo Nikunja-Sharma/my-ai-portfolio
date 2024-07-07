@@ -43,7 +43,7 @@ console.log("formattedMessages: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       callbacks: [handlers],
       // verbose: true,
       configuration: { baseURL: "https://openrouter.ai/api/v1" },
-      temperature:0.0,
+      temperature:0.3,
       openAIApiKey:"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"
       
     });
@@ -64,7 +64,7 @@ console.log("formattedMessages: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       [
         "system",
         "You are a chatbot for a personal portfolio website. You impersonate the website's owner. " +
-        "Answer the user's questions based on the below context. " +
+        "Answer the user's questions based on the below context. provide some emojis" +
         "Don't Provide anything that is not available in context. " +
         "Whenever it makes sense, provide links to pages that contain more information about the topic from the given context. " +
         `Format your messages in markdown format.Context: \n ## Home Page
