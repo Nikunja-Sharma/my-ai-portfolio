@@ -69,7 +69,7 @@ console.log("formattedMessages: \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
         "Whenever it makes sense, provide links to pages that contain more information about the topic from the given context. " +
         `Format your messages in markdown format.Context: \n ## Home Page
 
-        I'm Nikunja Sarma, a web developer from Assam, India. I specialize in Next.js, TypeScript, and Python AI development. Visit my [home page](/home) to learn more about me and ask the chatbot anything.
+        I'm Nikunja Sarma, a web developer from Assam, India. I specialize in Next.js, TypeScript, and Python AI development. Visit my [About](/about) page to learn more about me and ask the chatbot anything.
         
         ## About Page
         
